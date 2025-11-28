@@ -20,12 +20,12 @@ while(guess!==anyNumber){
         alert("Too high! Try again.");
 
         
-    }
+    }}
 
         console.log ("Congratulations! You guessed the correct number:");
 alert ("Congratulations! You guessed the correct number:" + anyNumber);
 
-        }
+};
 
 guessNumbergame();
 
